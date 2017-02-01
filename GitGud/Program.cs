@@ -10,6 +10,7 @@ namespace GitGud
     {
         static void Main(string[] args)
         {
+            // Ceci est une ligne de commentaire
             Console.WriteLine("Hello world");
         }
     }
